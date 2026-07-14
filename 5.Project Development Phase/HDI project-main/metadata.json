@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Human Development Index Prediction System",
+  "description": "An end-to-end Machine Learning web application to predict Human Development Index (HDI) scores and classify them using socioeconomic indicators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
