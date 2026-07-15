@@ -69,7 +69,7 @@ HDI-project/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/HDI-project.git
+git clone https://github.com/Parneeth/HDI-project
 cd HDI-project
 ```
 
@@ -190,7 +190,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Sabhushak Parneeth**
+**Sabhushak Parneeth Devanaboina**
 
 GitHub: https://github.com/Parneeth
 
